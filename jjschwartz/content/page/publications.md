@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2019-12-05T23:23:36+11:00
-draft: true
+draft: false
 ---
 
 **POMDP + Information-Decay: Incorporating Defender's Behavior in Autonomous Penetration Testing**   
