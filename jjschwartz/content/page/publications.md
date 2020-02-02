@@ -6,8 +6,7 @@ draft: false
 
 **POMDP + Information-Decay: Incorporating Defender's Behavior in Autonomous Penetration Testing**   
 Jonathon Schwartz, Edwin El-Mahassni, Hanna Kurniawati  
-In: Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling (ICAPS) 2020.  
-*Currently under review*    
+In: Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling (ICAPS) 2020.    
 [paper](/files/ICAPS20_ACODecay.pdf)
 
 **Autonomous Penetration Testing using Reinforcement Learning**  
