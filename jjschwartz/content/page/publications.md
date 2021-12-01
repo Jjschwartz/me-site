@@ -11,7 +11,7 @@ profile for the most up to date list of publications.
 **POMDP + Information-Decay: Incorporating Defender's Behavior in Autonomous Penetration Testing**
 Jonathon Schwartz, Edwin El-Mahassni, Hanna Kurniawati
 In: Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling (ICAPS) 2020.
-[paper](/files/ICAPS20_ACODecay.pdf)
+[paper](https://ojs.aaai.org/index.php/ICAPS/article/download/6666/6520/)
 
 **CybORG: An Autonomous Cyber Operations Research Gym**
 Callum Baillie, Maxwell Standen, Jonathon Schwartz, Michael Docking, David
