@@ -1,2 +1,4 @@
 [submodule "jjschwartz/public"]
 	url = https://github.com/jjschwartz/jjschwartz.github.io.git
+[submodule "jjschwartz/themes/beautifulhugo"]
+	url = https://github.com/halogenica/beautifulhugo
