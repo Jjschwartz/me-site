@@ -20,14 +20,14 @@ pygmentsCodefencesGuessSyntax = true
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
-  comments = true
-  readingTime = true
+  rss = false
+  comments = false
+  readingTime = false
   wordCount = true
   useHLJS = true
   # socialShare = true
   delayDisqus = true
-  showRelatedPosts = true
+  showRelatedPosts = false
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -48,7 +48,7 @@ pygmentsCodefencesGuessSyntax = true
   website = "JJschwartz.github.io"
   email = "jonathon.schwartz@anu.edu.au"
   github = "jjschwartz"
-  twitter = "jjschwartz12"
+  # twitter = "jjschwartz12"
   # facebook = "username"
   # gitlab = "username"
   # bitbucket = "username"
@@ -76,11 +76,6 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 1
-
-[[menu.main]]
-    name = "Blog"
-    url = ""
     weight = 1
 
 [[menu.main]]
